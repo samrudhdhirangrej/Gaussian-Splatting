@@ -232,7 +232,7 @@ The real test is held-out L1 on views that were never used for training.
 
 ### Novel-view orbit render
 
-![Novel-view orbit](assets/orbit.gif)
+<img src="assets/orbit.gif" alt="Novel-view orbit" width="50%" />
 
 _The orbit uses angles absent from the training set. Its axis, radius, and elevation are estimated from training camera poses rather than assuming a fixed world “up.”_
 
