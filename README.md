@@ -305,9 +305,3 @@ The population collapses during the first few hundred steps, then rebuilds throu
 `3DGS_Tutorial.ipynb` contains the full implementation.
 
 Pipeline recap: camera → SH → gaussian primitive → EWA projection → alpha-composited render → loss → training → density control → results.
-
----
-
-## Assets
-
-The referenced slide images should be placed in an `assets/` directory beside this Markdown file using the filenames shown in the image links above. The source presentation contained image placeholders, but the uploaded PPTX did not expose the underlying binary asset files through the available file content extraction.
